@@ -1,6 +1,6 @@
 baseURL = "https://blog.apower.top"
 languageCode = "en"
-title = "小绿皮的流水账"
+title = "小绿皮的随想"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true

@@ -1,0 +1,71 @@
+baseURL = "https://blog.usepower.net"
+languageCode = "en"
+title = "小绿皮的随想录"
+theme = "LeaveIt"
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+canonifyurls = true
+
+# Disqus Username
+disqusShortname = "disqus_shortname"
+
+# Google Analytics UA number
+#googleAnalytics = "UA-XXXXXXXX-X"
+
+# Copyright of your post
+# copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "首页"
+  weight = 10
+  identifier = "Home"
+  url = "/"
+
+[[menu.main]]
+  name = "标签"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+
+# Add your own params here
+[params]
+  author = "eric liu"
+  avatar = "/img/icon.jpg"
+  seotitle = "小绿皮的随想录"
+  subtitle = "~小小码农~"
+  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  paginate = 10
+
+
+  changyan = false
+  changyanId = "cyt3toRiB"
+  changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
+
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+
+  # Bing Webmaster
+  # https://www.bing.com/toolbox/webmaster/
+  msValidate = "22596E34341DD1D17D6022C44647E587"
+
+  # Baidu Webmaster (China Only)
+  # https://zhanzhang.baidu.com/
+  # baiduSiteVerification = "MZ23SPxxfa"
+
+  # Sogou Webmaster (China Only)
+  # http://zhanzhang.sogou.com/
+  # sogouSiteVerification = "m2jktMQTZm"
+
+  # 360 Webmaster (China Only)
+  # http://zhanzhang.so.com/
+  # soSiteVerification = "b7ab3b4c2edbc856642004d1b8c27a91"
+
+  # Baidu Tongji (China Only)
+  # https://tongji.baidu.com/
+  # baiduTongji = "e21dc1e8a592188271b615159dc88af7"
+
+  # ICP Number (China Only)
+  # ICP = "苏ICP备16005986号-2"

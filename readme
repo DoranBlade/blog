@@ -1,2 +1,3 @@
 theme
 hugo-nuo:https://github.com/laozhu/hugo-nuo.git
+hugo-theme-even:git clone https://github.com/olOwOlo/hugo-theme-even themes/even
